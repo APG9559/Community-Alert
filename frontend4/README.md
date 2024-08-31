@@ -1,3 +1,31 @@
+# Installation of depedencies
+
+npm install -d tailwind
+
+npx tailwindcss init
+
+# React-router DOM
+
+npm install react-router-dom
+
+# React Icon
+npm i react-icons
+
+#Framer Motion
+
+npm install framer-motion
+
+# Install Axios
+npm install axios
+
+# Install Leaflet
+
+npm install leaflet
+
+#Install @maptiler/sdk
+
+npm install @maptiler/sdk
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
