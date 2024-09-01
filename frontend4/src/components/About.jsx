@@ -32,6 +32,9 @@ export default function About() {
           className="flex uppercase gap-3 items-center px-10 py-4 bg-black text-white rounded-full mt-5">Read More<div className="w-3 h-3 bg-gray-100 rounded-full bg-white"></div>
         </button>
         {showAlert && (
+          <p>Discription : Kolhapur(Maharashtra),july 27(ANI): The Kolhapur District Administration has 
+          relocated 5,849 people from 1,379 families from flood-affected areas , with 5,116 people
+          from the karveer tahsil alone, as the Panchganga river continues to flow above the danfer mark</p>
           <motion.div
             className="mt-4 p-4 font-lato tracking-tight text-2xl"
             initial={{ opacity: 0, y: 10 }}
