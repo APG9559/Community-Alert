@@ -39,12 +39,7 @@ export default function About() {
             transition={{ duration: 0.5 }}
           >
             <p className="text-4xl font-lato">
-              Alert: Student met a horrible accident
-            </p>
-            <p className="text-2xl font-lato">
-              Description: A KIT College student met with a horrible accident
-              near Sanjay Ghodawat University Atigre.
-            </p>
+          
           </motion.div>
         )}
       </div>
